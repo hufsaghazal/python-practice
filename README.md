@@ -2,7 +2,6 @@
 
 This repository is a collection of beginner-friendly Python practice files.
 
-
 ## Topics Covered
 
 ### 01_print_functions
