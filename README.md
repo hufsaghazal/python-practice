@@ -1,19 +1,25 @@
 # Python Practice
 
-This repository contains my Python practice files.
+This repository is a collection of beginner-friendly Python practice files.
+
 
 ## Topics Covered
 
 ### 01_print_functions
-- print()
-- escape characters
-- formatting output
+
+- Printing text
+- Using quotes inside strings
+- Escape characters (`\n`, `\t`, `\\`)
+- Formatting output
 
 ### 02_variables
-- variables
-- updating values
-- real-life examples
-- game character profile
+
+- What variables are
+- Why variables are useful
+- Updating variable values
+- Real-life examples
+- Simple game character profile
 
 ## Purpose
-A collection of Python practice files organized by topic.
+
+A collection of beginner-friendly Python practice files organized by topic.
